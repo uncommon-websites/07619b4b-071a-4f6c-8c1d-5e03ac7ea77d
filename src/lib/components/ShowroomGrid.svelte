@@ -7,24 +7,24 @@
       <!-- Card 1 -->
       <div class="relative h-[400px] rounded-2xl overflow-hidden group cursor-pointer">
         <img 
-          src="https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069&auto=format&fit=crop" 
-          alt="Showroom" 
+          src="/generated/image-boston-cityscape-with-historic-buildings-1765581190843-4.webp" 
+          alt="Boston Market" 
           class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
         />
-        <div class="absolute inset-0 bg-black/10 p-8 flex flex-col justify-between">
-          <h3 class="text-white text-2xl font-light max-w-[200px]">Experience Backyard in person. <br>Visit a showroom -></h3>
+        <div class="absolute inset-0 bg-black/30 p-8 flex flex-col justify-between">
+          <h3 class="text-white text-2xl font-light max-w-[300px]">Deep expertise in the Boston real estate market. <br>Learn more -></h3>
         </div>
       </div>
 
       <!-- Card 2 -->
       <div class="relative h-[400px] rounded-2xl overflow-hidden group cursor-pointer">
         <img 
-          src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=2089&auto=format&fit=crop" 
-          alt="Construction" 
+          src="/generated/image-construction-team-reviewing-blueprints-a-1765581188824-3.webp" 
+          alt="Our Process" 
           class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
         />
-        <div class="absolute inset-0 bg-black/10 p-8 flex flex-col justify-between">
-          <h3 class="text-white text-2xl font-light max-w-[300px]">Learn how we squeeze a whole house into your yard. <br>How it works -></h3>
+        <div class="absolute inset-0 bg-black/30 p-8 flex flex-col justify-between">
+          <h3 class="text-white text-2xl font-light max-w-[300px]">Integrated development and construction expertise. <br>See our process -></h3>
         </div>
       </div>
     </div>
@@ -32,17 +32,19 @@
     <!-- Testimonials -->
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8 border-t border-gray-200 pt-12">
       <div class="col-span-1">
-        <h4 class="text-lg text-gray-900">What people are<br>saying about Samara</h4>
+        <h4 class="text-lg text-gray-900">What partners are<br>saying about OnPoint</h4>
       </div>
       
       <div class="col-span-1">
-        <p class="text-gray-600 text-sm mb-2">"Our backyard home<br>looks great."</p>
+        <p class="text-gray-600 text-sm mb-2">"OnPoint transformed a distressed property into a premium asset. Exceptional results."</p>
         <div class="flex text-gray-900 text-xs">★★★★★</div>
+        <p class="text-gray-400 text-xs mt-2">— Property Owner, Back Bay</p>
       </div>
 
       <div class="col-span-1">
-        <p class="text-gray-600 text-sm mb-2">"Going with Samara was, hands down, the<br>best decision we've gone with this far!"</p>
+        <p class="text-gray-600 text-sm mb-2">"Their integrated approach saved time and maximized value. True development experts."</p>
         <div class="flex text-gray-900 text-xs">★★★★★</div>
+        <p class="text-gray-400 text-xs mt-2">— Real Estate Agent, South End</p>
       </div>
     </div>
   </div>
